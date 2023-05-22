@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    font-family: 'Apple chancery',cursive;
+}
+#heading{
+    font-size: 30px;
+    color: crimson;
+    border-bottom: 3px solid rgb(49, 44, 44);
+    margin-top: 10px;
+    padding: 10px;
+}
+#color{
+    float: right;
+    margin-right: 15px;
+}
+#container{
+    text-align: center;
+    padding: 350px;
+}
+#btn{
+    width: 150px;
+    letter-spacing: 2px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: crimson;
+    color: aliceblue;
+    border: 3px solid white;
+}
